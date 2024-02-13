@@ -1,7 +1,7 @@
 # About Me
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=EtoEto32&show_icons=true&locale=en&layout=compact)
-?username=EtoEto32
+[![trophy](https://github-profile-trophy.vercel.app/?username=EtoEto32)](https://github.com/ryo-ma/github-profile-trophy)
 ## Programming Languages
 
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,c," /> <br /><br />
