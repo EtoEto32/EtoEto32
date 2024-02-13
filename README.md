@@ -8,7 +8,7 @@
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=vue,dajango,wordpress" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=vue,django,wordpress" /> <br /><br />
 
 ## DB and Dev Tools etc
 
