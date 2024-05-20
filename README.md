@@ -4,7 +4,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=EtoEto32)](https://github.com/ryo-ma/github-profile-trophy)
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,c," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,c,php" /> <br /><br />
 
 ## Frameworks and Library
 
