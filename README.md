@@ -1,4 +1,4 @@
-# About Me
+# About Me(最近はPHP,Laravelの学習に励んでいます。)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EtoEto32&layout=compact&langs_count=8)
 
