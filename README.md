@@ -9,7 +9,7 @@
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=django" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=vue,django" /> <br /><br />
 
 ## DB and Dev Tools etc
 
