@@ -1,4 +1,4 @@
-# About Me(React!!)
+# About Me(TS、React、Next.js極めたい)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EtoEto32&layout=compact&langs_count=8)
 
