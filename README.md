@@ -1,4 +1,4 @@
-# About Me(TS、React、Next.js極めたい)
+
 <script src="https://gist.github.com/EtoEto32/fee95c0f76e01837b7bb4bbffdb51b57.js"></script>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EtoEto32&layout=compact&langs_count=8)
 
