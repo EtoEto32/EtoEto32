@@ -1,4 +1,8 @@
-### 私について
+## 私について
+-
+・情報工学専攻
+・Web開発、ネットワーク、サイバーセキュリティに興味があります。（競プロもやりたい）
+・趣味：ゲーム、音楽、e-sports観戦、レコード収集
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EtoEto32&layout=compact&langs_count=8)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=EtoEto32)](https://github.com/ryo-ma/github-profile-trophy)
