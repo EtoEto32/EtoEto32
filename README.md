@@ -1,7 +1,10 @@
 ## 私について
 ・何者：情報工学を専攻しているしがない大学生  
 ・興味ある分野：Web開発、ネットワーク、サイバーセキュリティに興味があります。（競プロもやりたい）  
-・趣味：ゲーム（ヴァロラント）、音楽（https://www.youtube.com/watch?v=9kSYrcuhhZA）、e-sports観戦（ムラゲ推し）、レコード収集（YMOの大ファン）
+・趣味：ゲーム、音楽（）、e-sports観戦、レコード収集  
+**人生で一番好きな曲**  
+betcover!! - 回転・天使
+https://www.youtube.com/watch?v=9kSYrcuhhZA  
 
   
   
