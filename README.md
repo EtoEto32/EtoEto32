@@ -1,7 +1,4 @@
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EtoEto32&layout=compact&langs_count=8)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=EtoEto32)](https://github.com/ryo-ma/github-profile-trophy)
 ## Programming Languages
 
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,c" /> <br /><br />
