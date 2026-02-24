@@ -5,7 +5,7 @@
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=React,FastAPI,Vue" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,fastapi,vue" /> <br /><br />
 
 ## DB and Dev Tools etc
 
