@@ -12,4 +12,7 @@
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,git,github,vscode,linux,notion,aws,wordpress,obsidian" /> <br /><br />
 
 ## Specialty field
-**ImageProcessing,CNN,Malware,Web**
+### Web
+### ImageProcessing
+### CNN
+### Malware
