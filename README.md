@@ -9,7 +9,7 @@
 
 ## DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,git,github,vscode,linux,notion,aws,wordpress" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,git,github,vscode,linux,notion,aws,wordpress,obsidian" /> <br /><br />
 
 ## Specialty field
 **ImageProcessing,CNN,Malware,Web**
